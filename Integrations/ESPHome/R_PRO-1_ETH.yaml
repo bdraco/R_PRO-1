@@ -32,7 +32,7 @@ esphome:
             }
   
 dashboard_import:
-  package_import_url: github://bdraco/R_PRO-1/Integrations/ESPHome/R_PRO-1_ETH.yaml
+  package_import_url: github://ApolloAutomation/R_PRO-1/Integrations/ESPHome/R_PRO-1_ETH.yaml
   import_full_config: false
 
 ota:
